@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hyde"
 title = "Vandana's Blog"
-[params]
 disqusShortname = "vandana-vision"
+[params]
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
