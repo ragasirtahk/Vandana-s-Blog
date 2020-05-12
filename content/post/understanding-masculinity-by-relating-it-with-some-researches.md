@@ -1,5 +1,5 @@
 ---
-title: Understanding 'masculinity' by relating it with some researches
+title: Influence of institutional sites in shaping 'masculinity' of a boy
 date: 2020-05-11T16:05:21.770Z
 autoThumbnailImage: false
 thumbnailImagePosition: top
@@ -11,18 +11,15 @@ Institutional spaces such as schools, family, textbooks and public spaces influe
 
 According to Kalia(1986), textbooks analysed by him had men as dominant figures, he shares instances of men abusing and violently beating women in lesson plots, sexist language of textbooks, men being depicted as dominant decision makers. Textbooks give more voice and visibility to men. It legitimises patriarchal and dominant structure. The school spaces, playgrounds and children’s talk become the sites of doing so. 
 
- According to Martino et al., (2003), such systems and spaces can be manipulated by students to further accentuate the differences and use them as markers of power and marginality.  Martino et al., (2003) in their book try to address issues of masculinity and schooling through mestizaje and foucauldian theoretical frameworks. The factors that shape boys’ masculinity are self-regulation practices, labels, communities they belong to and normalising practices.  The formation of identity during schooling period is understood as a “cultural technology for working on and fashioning of gendered self.” The boys’ ethnicity, socio-economic status, indigenity, rurality, sexuality,disability and most importantly physical build and looks , clothes have a role in shaping masculine trait.
-Social ascription, community acknowledgment and personal agency play a role in determining what gender does one belongs to. The body has a role in two ways - 
+ According to Martino et al., (2003), such systems and spaces can be manipulated by students to further accentuate the differences and use them as markers of power and marginality.  Martino et al., (2003) in their book try to address issues of masculinity and schooling through mestizaje and foucauldian theoretical frameworks. The factors that shape boys’ masculinity are self-regulation practices, labels, communities they belong to and normalising practices.  The formation of identity during schooling period is understood as a “cultural technology for working on and fashioning of gendered self.” The boys’ ethnicity, socio-economic status, indigenity, rurality, sexuality,disability and most importantly physical build and looks , clothes have a role in shaping masculine trait. Social ascription, community acknowledgment and personal agency play a role in determining what gender does one belongs to. The body has a role in two ways - 
 
 1. “The body as the site of normalizing practices and constructions of masculinity: boys’ understandings of the ‘normal’ body of masculinity, including muscularity, modes of walking and talking.
-2.  Body fashioning/adornment as signifiers of ‘normal’ and ‘abnormal’ masculinity: boys’ understandings of how clothes, jewellery, make-up and other self-fashioning techniques define their masculinities.” (Martino et al.,2003, p. 15) 
+2. Body fashioning/adornment as signifiers of ‘normal’ and ‘abnormal’ masculinity: boys’ understandings of how clothes, jewellery, make-up and other self-fashioning techniques define their masculinities.” (Martino et al.,2003, p. 15) 
 
-   Hence, there exist various theoritical frameworks to define how boys are made boys through social practices of masculinity. 
+   Hence, one can explore various theoritical frameworks at such institutional spaces which have an influenec in shaping boys' masculinity.
 
    References- 
 
-   1. Martino, Wayne and Pallota Chiarolli, Maria (2003). So what’s  a boy?. Addressing issues of Masculinity and Schooling. Philadelphia: Open university press, pp: 1-54.
-
-   2. Kalia, Narendra Nath (1986). ‘Women and Sexism : Language of Indian School Textbooks’, Economic and Political Weekly, Vol. 21, No. 18, May 3, pp: 794-797.
-
-   3. Connolly, Paul (2003). Gendered and gendering spaces Playgrounds in the early years. In, Christine Skelton and Becky Francis (Eds). Boys and girls in the primary classroom. Bershie: Open university press, pp: 113-131.
+1. Martino, Wayne and Pallota Chiarolli, Maria (2003). So what’s  a boy?. Addressing issues of Masculinity and Schooling. Philadelphia: Open university press, pp: 1-54.
+2. Kalia, Narendra Nath (1986). ‘Women and Sexism : Language of Indian School Textbooks’, Economic and Political Weekly, Vol. 21, No. 18, May 3, pp: 794-797.
+3. Connolly, Paul (2003). Gendered and gendering spaces Playgrounds in the early years. In, Christine Skelton and Becky Francis (Eds). Boys and girls in the primary classroom. Bershie: Open university press, pp: 113-131.
