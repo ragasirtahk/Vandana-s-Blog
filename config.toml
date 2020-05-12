@@ -8,3 +8,8 @@ googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
+
+​Menus​:
+  ​main​:
+    - ​Name​: ​"​LinkedIn​"​
+      ​URL​: ​"​https://www.linkedin.com/in/vandanakhatri/​"
