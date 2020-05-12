@@ -3,10 +3,6 @@ languageCode = "en-us"
 theme = "hyde"
 title = "Vandana's Blog"
 disqusShortname = "vandana-vision"
-[Menus]
-  main = [
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/vandanakhatri/"}
-  ]
 [params]
 description = "Articles | Research Papers"
 googleAnalytics = ""
