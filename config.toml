@@ -4,7 +4,7 @@ theme = "hyde"
 title = "Vandana's Blog"
 disqusShortname = "vandana-vision"
 [params]
-description = "Articles | Research Papers"
+description = "Articles | Research Papers | Opinions"
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
