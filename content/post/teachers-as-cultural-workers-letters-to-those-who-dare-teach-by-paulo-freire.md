@@ -1,6 +1,6 @@
 ---
-title: "Teachers as Cultural Workers - Letters to those who dare teach by Paulo
-  Freire "
+title: "Teachers as Cultural Workers - Letters to those who dare to teach by
+  Paulo Freire "
 date: 2020-05-12T05:02:53.361Z
 autoThumbnailImage: false
 thumbnailImagePosition: top
