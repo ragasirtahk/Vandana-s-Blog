@@ -8,6 +8,7 @@ disqusShortname = "vandana-vision"
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/vandanakhatri/"}
   ]
 [params]
+description = "Articles|Research Papers"
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
