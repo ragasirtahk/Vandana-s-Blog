@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "hyde"
 title = "Vandana's Blog"
 [params]
-disqusShortname = ""
+disqusShortname = "vandana-vision"
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
