@@ -5,7 +5,7 @@ title = "Vandana's Blog"
 disqusShortname = "vandana-vision"
 [params]
 description = "Articles | Research Papers | Opinions"
-googleAnalytics = ""
+googleAnalytics = "UA-169289805-1"
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
