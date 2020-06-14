@@ -5,7 +5,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-
+![](/images/uploads/819962-21346-tkvueftlpj-1477420352.jpg)
 
 It is essential for us to have a deeper look into the real scenario behind women’s struggles. The intersectionality of identity, culture, religion, caste, class, institutions and histories determines/influences a girls’ educational path to a larger extent. 
 
